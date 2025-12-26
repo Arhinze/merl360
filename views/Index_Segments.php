@@ -24,9 +24,10 @@ HTML;
     }
     
     public static function header($site_name = SITE_NAME_SHORT, $site_url = SITE_URL, $Hi_user = "", $title=SITE_NAME){
-        
         $main_header = Index_Segments::main_header();
         $css_version = filemtime($_SERVER["DOCUMENT_ROOT"]."/static/style.css");
+        
+        echo <<<HTML
 
 HTML;
        }
