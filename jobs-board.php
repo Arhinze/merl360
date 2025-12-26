@@ -230,7 +230,7 @@
                 <button class="btn btn-primary">Filter Jobs</button>
             </div>
 
-            <div class="job-card">
+            <div class="job-card" for="apply">
                 <div class="job-info">
                     <h3>Senior M&E Officer</h3>
                     <div class="job-meta">
@@ -243,7 +243,7 @@
                         <span>Health Sector</span>
                     </div>
                 </div>
-                <a href="#" class="btn btn-primary">Apply Now</a>
+                <a href="#" class="btn btn-primary" id="apply">Apply Now</a>
             </div>
 
             <div class="job-card">
