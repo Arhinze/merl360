@@ -42,7 +42,7 @@ HTML;
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ImpactPartners | NGO Consultancy</title>
+    <title>MERL360 | NGO Consultancy</title>
     <style>
         /* --- RESET & VARIABLES --- */
         :root {
@@ -388,7 +388,7 @@ HTML;
                 <div class="about-text">
                     <h5 style="color: var(--accent); font-weight: 700; text-transform: uppercase; margin-bottom: 10px;">Who We Are</h5>
                     <h2 style="font-size: 2.5rem; color: var(--primary); margin-bottom: 20px; line-height: 1.2;">We help non-profits navigate complex challenges.</h2>
-                    <p style="margin-bottom: 20px;">At ImpactPartners, we believe that good intentions need great strategy. We provide the operational expertise, fundraising strategies, and monitoring frameworks that allow NGOs to focus on what they do best: changing lives.</p>
+                    <p style="margin-bottom: 20px;">At MERL360, we believe that good intentions need great strategy. We provide the operational expertise, fundraising strategies, and monitoring frameworks that allow NGOs to focus on what they do best: changing lives.</p>
                     <ul style="margin-bottom: 30px;">
                         <li style="margin-bottom: 10px;">✓ <strong>10+ Years</strong> of Sector Experience</li>
                         <li style="margin-bottom: 10px;">✓ <strong>Data-Driven</strong> Monitoring & Evaluation</li>
@@ -476,7 +476,7 @@ HTML;
                     <p style="margin-bottom: 20px;">Fill out the form or contact us directly. We answer all inquiries within 24 hours.</p>
                     <p style="margin-bottom: 10px;"><strong>📍 Address:</strong><br>123 Impact Avenue, Lagos, Nigeria</p>
                     <p style="margin-bottom: 10px;"><strong>📞 Phone:</strong><br>+234 800 123 4567</p>
-                    <p style="margin-bottom: 10px;"><strong>✉️ Email:</strong><br>hello@impactpartners.com</p>
+                    <p style="margin-bottom: 10px;"><strong>✉️ Email:</strong><br>hello@MERL360.com</p>
                 </div>
                 <div class="contact-form">
                     <form>
@@ -529,7 +529,7 @@ HTML;
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2024 ImpactPartners Consultancy. All Rights Reserved.</p>
+                <p>&copy; 2025 MERL360 Consultancy. All Rights Reserved.</p>
             </div>
         </div>
     </footer>
