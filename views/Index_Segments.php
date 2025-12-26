@@ -11,7 +11,7 @@ class Index_Segments{
     }
     protected static $pdo;
 
-    public static function main_header($site_name = SITE_NAME_SHORT, $number_of_products_in_cart = INDEX_NUM_OF_PRODUCTS_IN_CART) {
+    public static function main_header($site_name = SITE_NAME_SHORT) {
         return <<<HTML
          
 HTML;
@@ -31,7 +31,7 @@ HTML;
 HTML;
        }
 
-        public static function body($site_name = SITE_NAME_SHORT, $site_url = SITE_URL, $number_of_products_in_cart = INDEX_NUM_OF_PRODUCTS_IN_CART){
+        public static function body($site_name = SITE_NAME_SHORT, $site_url = SITE_URL){
             $site_name_uc = strtoupper($site_name);    
             $site_menu = Index_Segments::site_menu();
        
@@ -47,7 +47,7 @@ HTML;
         }
                                                                 
                                                                 
-        public static function footer($site_name = SITE_NAME_SHORT, $site_url = SITE_URL, $additional_scripts = "", $whatsapp_chat = "on", $shopping_cart = "on", $number_of_products_in_cart = INDEX_NUM_OF_PRODUCTS_IN_CART){ 
+        public static function footer($site_name = SITE_NAME_SHORT, $site_url = SITE_URL, $additional_scripts = "", $whatsapp_chat = "on", $shopping_cart = "on"){ 
                                                                             
             $index_scripts = Index_Segments::index_scripts();    
                                                                      
