@@ -364,6 +364,7 @@ HTML;
                 <ul class="nav-links">
                     <li><a href="#about">About Us</a></li>
                     <li><a href="#services">Services</a></li>
+                    <li><a href="#services">NGO Jobs</a></li>
                     <li><a href="#impact">Our Impact</a></li>
                     <li><a href="#contact" class="cta-header">Get Consultation</a></li>
                 </ul>
